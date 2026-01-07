@@ -24,7 +24,7 @@ const purchasesRoutes = require("./routes/purchases");
 const transfersRoutes = require("./routes/transfers");
 const baseCommanderRoutes = require("./routes/baseCommander");
 const assignmentsRouter = require('./routes/assignments');
-const expendituresRouter = require("./routes/Expenditures"); // lowercase e
+const expendituresRouter = require("./routes/expenditures"); // lowercase e
 
 
 
